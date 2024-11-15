@@ -3,7 +3,7 @@
 }
 
 body {
-    margin: 50px; 
+    margin: 88px 80px 137px; 
     box-sizing: border-box;
 }
 
@@ -49,6 +49,12 @@ h3 {
     color: #1B1B1B;
     font-size: 28px;
     font-weight: bold;      
+}
+
+ul {
+    color: #333333;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 p {
