@@ -23,6 +23,10 @@ body {
 
 #primaria {
     margin-bottom: 24px;
+    border-radius: 28px;
+    object-fit: cover;
+    width: 100%;
+    margin-bottom: 24px;
 }
 
 .imagem {
@@ -37,6 +41,7 @@ body {
     font-style: italic;
     font-size: 16px;
     text-align: center;
+    margin-bottom: 40px;
 }
 
 #headline {
